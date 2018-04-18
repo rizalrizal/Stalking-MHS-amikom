@@ -1,4 +1,4 @@
-# Stalking-MHS-amikom
+# Stalking MHS amikom
 Media untuk stalking mahasiswa amikom
   
 # How To Use
